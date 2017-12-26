@@ -2,7 +2,7 @@
 
 # Animated SVG in AMP
 
-You can use animated SVGs within an AMP html page. 
+You can use animated SVGs within an [AMP html](https://www.ampproject.org/) page. 
 
 For the demo here the AMP logo was animated with [Keyshape](https://www.keyshapeapp.com) and then exported. The export animation option was set to **CSS** rather than **KeyshapeJS**. The resulting exported SVG file had its embedded CSS animation extracted and then inserted instead into the page's ``<style amp-custom>``
 
