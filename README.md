@@ -1,3 +1,5 @@
+![](preview.gif)
+
 # Animated SVG in AMP
 
 The AMP logo has been animated with [Keyshape](https://www.keyshapeapp.com). The export animation option was set to **CSS**.
