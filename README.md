@@ -2,7 +2,7 @@
 
 # Animated SVG in AMP
 
-The AMP logo has been animated with [Keyshape](https://www.keyshapeapp.com). The export animation option was set to **CSS**.
+You can use The AMP logo has been animated with [Keyshape](https://www.keyshapeapp.com). The export animation option was set to **CSS**.
 
 The resulting exported SVG file had its embedded CSS animation extracted and then inserted instead into the page's ``<style amp-custom>``
 
