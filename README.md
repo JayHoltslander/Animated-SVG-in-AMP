@@ -9,4 +9,4 @@ For the demo here the AMP logo was animated with [Keyshape](https://www.keyshape
 
 
 [View the page](https://jayholtslander.github.io/Animated-SVG-in-AMP/) | 
-[Open in AMP Validator](https://validator.ampproject.org/#url=https%3A%2F%2Fjayholtslander.github.io%2FAnimated-SVG-in-AMP%2F) | [Open in AMP Test](https://search.google.com/test/amp?id=WWJW0IaYGDRuiB7bPgOQjg)
+[Open in AMP Validator](https://validator.ampproject.org/#url=https%3A%2F%2Fjayholtslander.github.io%2FAnimated-SVG-in-AMP%2F) | [Open in AMP Test](https://search.google.com/test/amp?id=6Drgj6NrIQBEZxwrMM2e7A)
